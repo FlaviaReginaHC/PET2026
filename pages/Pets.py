@@ -1,7 +1,3 @@
-
-Pets.py
-
-100%
 from pathlib import Path
 from datetime import date, datetime
 import re
@@ -796,4 +792,3 @@ st.divider()
 st.caption(
     "DinoPetAnimal PRO • Gestão individual de pets em Excel"
 )
-Exibindo Pets.py…
