@@ -1,7 +1,3 @@
-
-Dashboard.py
-
-100%
 from pathlib import Path
 from collections import Counter
 
@@ -606,4 +602,3 @@ st.divider()
 st.caption(
     "DinoPetAnimal PRO • Dashboard integrado às planilhas individuais"
 )
-Exibindo Dashboard.py…
