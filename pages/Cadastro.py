@@ -1,7 +1,3 @@
-
-Cadastro.py
-
-100%
 from pathlib import Path
 from shutil import copy2
 from datetime import date, datetime
@@ -563,4 +559,3 @@ with col_rodape2:
     st.caption(
         "DinoPetAnimal PRO • Cadastro individual em Excel"
     )
-Exibindo Cadastro.py…
