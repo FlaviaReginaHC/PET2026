@@ -1,7 +1,3 @@
-
-Home.py
-
-100%
 from pathlib import Path
 
 import streamlit as st
@@ -386,4 +382,3 @@ st.caption(
     f"Versão {informacoes.get('versao', '1.0')} • "
     f"{informacoes.get('autor', 'Professor Dinaldo Guedes')}"
 )
-Exibindo Home.py…
