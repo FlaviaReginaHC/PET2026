@@ -1,7 +1,3 @@
-
-Relatorios.py
-
-100%
 from pathlib import Path
 from io import BytesIO
 from datetime import datetime
@@ -1103,4 +1099,3 @@ st.divider()
 st.caption(
     "DinoPetAnimal PRO • Relatório veterinário individual em PDF"
 )
-Exibindo Relatorios.py…
